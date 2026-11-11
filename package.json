@@ -1,0 +1,12 @@
+{
+  "name": "perfil-github",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gerar": "node gerador/gerar.mjs",
+    "estatisticas": "node gerador/estatisticas.mjs"
+  },
+  "devDependencies": {
+    "subset-font": "^2.4.0"
+  }
+}

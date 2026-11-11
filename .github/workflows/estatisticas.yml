@@ -1,0 +1,32 @@
+name: Estatísticas do perfil
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # todo dia, 06h em Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['gerador/**', '.github/workflows/estatisticas.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run estatisticas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit se mudou
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/estatisticas.svg
+          git diff --cached --quiet || (git commit -m 'Atualiza estatísticas do perfil' && git push)

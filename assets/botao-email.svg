@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="56" viewBox="0 0 186 56" role="img" aria-labelledby="titulo">
+<title id="titulo">Enviar um e-mail</title>
+<style>@font-face{font-family:G;src:url(data:font/woff2;base64,d09GMgABAAAAAAYYABQAAAAADKwAAAWsAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGlkbglAcKD9IVkFSVj9NVkFSPAZgP1NUQVSBOABcL34RCAqBZIE2CxIAMIJoATYCJAMgBCAFh1gHIAwHGxMLERWs1yH769FxOPmmUpxJyViOSGjTM1IsClV94EglFhh+K4bmOn39f+iusDjukfMy34cRRDW16tmVvIKwDKyQckE8RHj5coQ/APoykAls9xvTWHdXHkUJhBB50+/nJpoW2u7FmRvyvohUtDZiJSQOqMkdPwUeOIQcBLUkbd3B7Xo4nso48gBzOySBfQtqQcmpFg+9t3832gmkMNCgIAwktYACzKT3GvGv573fkrRJzQviE10yGOhwsvgSonibQr0D8Hq58QHyRD//Gxmg6rb/46qY5eiGrHQjR0ERAI2Dq2sve4G1rX4/tbmwZVoZYB+logRgCRUgvTdfmNpOhazrVJh+VUAbMC51kXUxJsJXCVNZq7Yh6jeLP5oInf9HITMWAH2SEEpCYKaESRithIT4vXzR73ULBULUhfSgB4HVrEagao7V5Guts9FWelb7iIP0bMreB+o54FGH6JHD8OdEHLj3EYcokASSJcqSQigkXdZCy4CQAITQJrQJIQHLjmrmXjcqKcHwcvUfQDv1Uhg+W+vLBRPVmdg9GTYn85oLZSHJ5EraBEOEGEJJmS4kWf52aJOEkAnkoickZLJ36WtpSZWx97c5Eu5Q6vgVgyYaAJKiTRYpL5cEWgJ1BRLiyX1fztmoGeyrjv944iUPUkj6/uHaFBy373sUQqAu0CEE3EhCUK7K09pxvhLpzNoOG6Z3jl3Mi1Vuj/X+4NuMNTfyIE0bt+/+T/LVotzkAkhj63E0VYVQSGioYpJ07L77HRXY/9z9oGgJDU0zLLGerezmIMc5WUA07IWA6PAkBERXZiBDkuJ80r0IiL78ioAYqO0QEE0aE1oTzaR2cnImpJhC4W11DVktDbn1MFIhKWuaaXVrW9/GCluXbNShflcqxR2KjZaEhorqXbSYvYjzyU6GEA3sRbSnA08iOtNFzCC600OcT/Smj/iV6M8AaTtiME2ujWJ8JpA1iYmZRHYyMVmIYUKgAKPRhvlYC5ADkhBCIIqsnreNyGu71naublPfasfaDrXSCHWhtVaq5ZVViv6dd5UeqZZ2qu6SbxsjNGYvMO86T8W+gPZv82Gn5+dwnz222OkLaSt38PS4PXn5WfwW62PyI/I4daqlk3PQntH0bz3fFAiEhJYCTANNy2xgD6c51xXlQYZSXZfQg3peu+90/ns9mq8n/aHxwzd3eun/n6aHwxNy12KBfa9Zbjn44a02rL5PpVG7R9FWjmRNl/Ovnpcf/HjIvejt0hN9H89LXFGqa3es1z8Rp8qnKijl+fPPe9nf+vjjzTYzL8tSNIbGSAvxn+/zsd/yu6efPjmALNcmTKMac7H++iej1E9NycijD//s/VEn3z2j+n2mbefR0bG8w8dH/fjjgwbbzjv/8Dud9saqA+PNdfJyjDPL4pc+eiiUMORdvy9JxY6CLMWhWueTr1KNJP3aX4YHgXj2uZdenzF3HbXSH4DsS/hsEwOffQv8C07oE1CWQPAR9Fd2I9R/g+wE1vuORdrOCnmpRu5opxhpp1zLTu1gO/lbXGOGQOE4o+2iJABALtAX28hEXsHl8WmJUI23kYyMZ5GZE5ci1xPLqaTYj8ryTQKCeqyBhiKWoV0jWtShGItOTT+jS9WX6Nbh5bEerFyN3m3Qp+5x9OtyOwaMdjkG9VmOpsIJGK9hH0ww1laYaMAiTFI1A5N16EBLXbX7pqhqDJGHwlSDHI2OcVrVkj0OomzOU5FDS1PgLSKHtTi0YAv2B+9xni7UBTFaEnZN50ueLi2sTJLShNlmKK4tjB8+ULSQ3nzGkW7d4aTOQeWEKyotCiCbqmQyeBrA0j+1ftr1F/Xl+RqLXO6Lkq2wuAxymXC5AA4twjkWRDeKyOCodbqra5TI/pdBhNI0Sa2l0yRN1qAjKVTk0wauoDinskxXiDvomBZ1wzxy3s7baV7P) format('woff2');font-weight:100 900}
+@font-face{font-family:GM;src:url(data:font/woff2;base64,d09GMgABAAAAAAU4ABQAAAAAC5AAAATMAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbHhwoP0hWQVI2P01WQVI8BmA/U1RBVIE4AFwvfhEICoIAgU4LEgAwgmIBNgIkAxQEIAWIRAcgDAcb8AkRFaSrk/1MsI2FNfuORscoTL9Jlu7LwsMIqv+Z9qzA8jssW4doDuI5iAowfrmsCwB+MpISVv43AgTA0bpeKUx8IwHIi1kcYcmY2r6rbIWkkwWMr5RVyAqIp8t+EuXchJkFVsB+jlgSGDWl5DRykzx4TdDrY8Fka5ehpy7QCEhCKAiBTK9escZaG1SU5KEOBDLjxqWK1562/y6HH6gZmIMwiDKApPR9GSMwbXR3iV4tQEnS+8eny8PRe+91OAJHQe0nEUyYICEoZvJp6zhTgXRy2hrrh6vHjpaIVUhhqisC/uO23Gz1DTxk0Ia57/9/m/xEnDzIBS++QZqWnsCgohBKEsoyjEpH7bX34YF9Dt9l/xgTygbNtZx1VOxsf0ebFBDT7Y6AaPMUAqIj5iKHJMWZpPsQED3xGwKiL22NgBioxlBuEPZIblI5J6QY589LyKEsJ1CWtw6alSRFg+aZb03r2rBeRzI2+I36F97xkPvd467CdbNAqySUTZXtxa7sTpxJbhJCTEffdTna8BTRHh3EXKIzupC7j+7oIX4jeqOPtDXRHwNUUwzGEKtsiuEYwbmjMSpEnRZQAq2YglWwKSAPSEIIgZiSb2yc0ppv2Klhh2zH7bfaqmmLhkKTRg9PQwhPFmE8yzdw6xvyqzTZbce3NyuQ9p1CTf36aNL95uOH3/3b336UlW99um/zZuzOtk/cVNn284022+jLXSs2qdzcf3PlLn9rdn9iy8uvPa2isPFxY6Ujt3xi4Slrz4RlYYHnyNLHk3DUPxvvvTEQCAnjSmA26LeMjezudKe7dMJDFiSN2oVOZO0z3v5mzLsNf0z9vTpZWMTQt98OVbPfXlqs8Q7rdY28/yWWmajvviB37Q8/XFttR83NzRQLka6JQlZ7zV5oQX6ZzzqfUahlFUMjZnPH6HvrsZYet/nzWuGZZSwDy8sYu2hWWO8Od4BajtOCYpa99toftVp1YfrumWcmi7VapfJ9lmXTsd56kxwN0ExWS/srGhW/59emtewN5s5d5JvqglhnnWp88kk1PPJky5+LTUzUajP/T29l2UMPvVSq6p9f36C+WXW+j3zkaE4aEdJf7Y+Kd6tIikiR1eL95qhlMfaeQNx6xCoHNfyzU8tKv5dyua/g862v2Qq+WHK5a/9a5v8j0+n5YRQlEPwaPGnrCuZ/9+la9F7zKX6zhDp33ba1id0tgaMFSvGn2fbRKABATqA3tpQT+am4Iq2TIpTTUkia0zhylosfkDcaz6CgO27iFw3H6QJBYyzEdKU4FmW9sSPalGM9tJsZw+iQRSc69fvb12Uu46N7HPRo9AN6DXoBfVo9gH6jLsaAkrMxqNeRGDLN7hg2bhWMyCyFUf3aMaZRdonjMorNXJs4x4hYmu1Rh9HVddzWyiLMjAczktssCsgcrsW1gW1MxcNXC7/R1iY5PE9X4pNiOx3MzXfRUkXHUdZnZgbqg9sFPgpuJ5z5H9ndvlDGFgl+GIS66rnQa0+6vXZucFWBidS4H3Xxe60vixF7xeBROteulwfrCEAfpf4Q1jkRARx4BCUDmQws4zCk3LWFoNrDppEXzjsdqSt3H9M2c+1OggFDyzX1HmqJeaWjdqtUrXxVr36pfkE03xWOu6kyAA==) format('woff2');font-weight:100 900}
+.d{font-family:BS,'Arial Narrow',sans-serif;font-weight:900}
+.s{font-family:IS,Georgia,serif;font-style:italic}
+.t{font-family:G,system-ui,'Segoe UI',sans-serif}
+.m{font-family:GM,ui-monospace,Consolas,monospace;letter-spacing:.12em}
+@keyframes pulso{0%,100%{opacity:1}50%{opacity:.2}}
+@keyframes sobe{from{opacity:0;transform:translateY(28px)}to{opacity:1;transform:none}}
+@keyframes surge{from{opacity:0}to{opacity:1}}
+@keyframes deriva{from{transform:translate(0,0)}to{transform:translate(-36px,-14px)}}
+@keyframes gira{to{transform:rotate(360deg)}}
+.pulso{animation:pulso 2.2s ease-in-out infinite}
+.sobe{animation:sobe 1.1s cubic-bezier(.22,1,.36,1) both}
+.surge{animation:surge 1.4s ease both}
+.deriva{animation:deriva 22s ease-in-out infinite alternate}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><clipPath id="moldura"><rect width="186" height="56" rx="28"/></clipPath></defs>
+<g clip-path="url(#moldura)">
+<rect width="186" height="56" fill="none"/>
+
+<rect x=".75" y=".75" width="184.5" height="54.5" rx="27.25" fill="#11130e" stroke="rgba(234,229,216,.22)" stroke-width="1.5"/>
+<text class="m" x="85" y="33" font-size="14" text-anchor="middle" fill="#eae5d8">E-MAIL</text>
+<text class="t" x="156" y="34" font-size="17" text-anchor="middle" fill="#ff4d1a">↗</text>
+</g>
+</svg>

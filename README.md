@@ -1,61 +1,31 @@
-<h2 align="left">About Me</h2>
+<a href="https://eduardobenjamin.vercel.app">
+  <img src="assets/capa.svg" width="100%" alt="Eduardo Benjamin: sites e sistemas sob medida. Código com disciplina, design com intenção. Niterói, RJ. Disponível para projetos.">
+</a>
 
-###
+<img src="assets/origem.svg" width="100%" alt="Origem: antes do código, veio a farda. Trabalho na área de informática do Exército Brasileiro: suporte, redes e desenvolvimento. 20 anos, Niterói (RJ), cursando ADS na Estácio.">
 
-<p align="left">- Nome: Eduardo Benjamin Mattos Aguiar<br>- Idade: 19 anos<br>- Estudando ADS, na UNESA desde 2024.2<br>- Desenvolvedor Java</p>
+<img src="assets/servicos.svg" width="100%" alt="Serviços: sites e landing pages; sistemas web sob medida; apps PWA para iPhone e Android; manutenção e evolução.">
 
-###
+<a href="https://whatyoubuy.vercel.app">
+  <img src="assets/projeto-whatyoubuy.svg" width="100%" alt="Projeto em produção: whatyoubuy, app de controle de gastos (PWA) que responde quanto sobrou no mês. Next.js, React, TypeScript, Supabase e Postgres.">
+</a>
 
-<div align="left">
-  <img height="200" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif"  />
-</div>
+<a href="https://eduardobenjamin.vercel.app">
+  <img src="assets/projeto-portfolio.svg" width="100%" alt="Portfólio Eduardo Benjamin: site pessoal com narrativa por rolagem e fundo topográfico em WebGL.">
+</a>
+<img src="assets/projeto-duas-marias.svg" width="100%" alt="Duas Marias: loja de roupas com catálogo por tamanho, carrinho, checkout e painel de pedidos, em Laravel.">
+<img src="assets/projeto-museu.svg" width="100%" alt="Museu do Exército: API REST versionada para o acervo do museu, em Laravel.">
 
-###
+<img src="assets/ferramentas.svg" width="100%" alt="Ferramentas: Next.js, React, TypeScript, Tailwind, Supabase, PostgreSQL, Vercel, PWA, Laravel, PHP, Java, Spring Boot, Docker, Git, CI/CD e redes.">
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-</div>
+<img src="assets/estatisticas.svg" width="100%" alt="Atividade no GitHub nos últimos 12 meses.">
 
-###
+<img src="assets/contato.svg" width="100%" alt="Vamos construir? Tem um site, um sistema ou só uma ideia? Me escreva ou me chame.">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoBmAguiar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoBmAguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoBmAguiar&radius=16&theme=gruvbox&area=true&order=5" height="250" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-bm-aguiar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/eduardobenjamin__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:eduardo.bm.aguiar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+  <a href="https://eduardobenjamin.vercel.app"><img src="assets/botao-site.svg" height="44" alt="Site"></a>
+  <a href="https://wa.me/5521967809720"><img src="assets/botao-whatsapp.svg" height="44" alt="WhatsApp"></a>
+  <a href="mailto:eduardo.bm.aguiar@gmail.com"><img src="assets/botao-email.svg" height="44" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/eduardo-bm-aguiar/"><img src="assets/botao-linkedin.svg" height="44" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/eduardobenjamin__/"><img src="assets/botao-instagram.svg" height="44" alt="Instagram"></a>
+</p>
